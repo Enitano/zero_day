@@ -1,1 +1,1 @@
-'uname command prints Darwin'
+'uname command prints Linux'
